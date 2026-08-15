@@ -2,7 +2,7 @@
 
 A single-page, animation-driven portfolio for **Toufik Mahata** — B.Tech Biotechnology & Bioinformatics student at CBSH, Dr. Rajendra Prasad Central Agricultural University (RPCAU), and creator of **Bong Coder**.
 
-**Live site:** [toufikmahata.netlify.app](https://toufikmahata.netlify.app)
+**Live site:** (https://toufikmahata-xi.vercel.app/)
 
 ---
 
